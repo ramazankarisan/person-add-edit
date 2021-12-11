@@ -6,6 +6,6 @@
 - I also used `contextAPI`.
 
 > I updated the code with `Bootstrap`. Also add `edit` button.
-> it is not finished and could not deploy it continuosly, so changes may be made.
+> it is not finished, so changes may be made. It is deployed continuously
 > 
-[live Demo](https://bootstrap-usereducer-add-edit.netlify.app/)
+[live Demo](https://person-add-edit.netlify.app)
